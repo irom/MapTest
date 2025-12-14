@@ -1,0 +1,15 @@
+{
+    "locations": [
+        {
+            "name": "Location 1",
+            "latitude": 33.2055026885454,
+            "longitude": -96.73003745710207
+        },
+        {
+            "name": "Location 2",
+            "latitude": 33.19149753760681,
+            "longitude": -96.73424316086881
+        }
+    ]
+}
+ 
