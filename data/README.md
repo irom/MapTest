@@ -40,12 +40,12 @@ The application should use the `data/locations.json` file which contains locatio
 ### Implementation Notes
 - The order of connection is determined by the `locations.id` field
 - Locations should be sorted before connecting (e.g., id "1" connects to id "2", id "2" connects to id "3", etc.)
-- Use Google Maps JavaScript API for map rendering
+- Use OpenStreetMap 
 - Consider using Google Maps Polyline or Directions API for connecting the points
 
 ## Expected Output
 A web application that:
-- Displays a Google Maps interface
+- Displays a OpenStreetMap  interface
 - Shows markers at each location from the JSON file
 - Draws connecting lines between locations in order of their ID values
 - Provides an interactive map experience
